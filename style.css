@@ -1,0 +1,10 @@
+.koledar{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+a:hover{
+	background-color: #FF0000;
+}
